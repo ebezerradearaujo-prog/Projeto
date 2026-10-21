@@ -185,25 +185,10 @@ em um cenário real.
 
 ## Imagens utilizadas
 
-Todas as imagens do projeto são **ilustrativas (placeholders)**, geradas
-especificamente para esta entrega, para que o projeto funcione visualmente
-sem depender de fotos reais. Elas estão organizadas em:
-
-- `assets/images/logo/` — logotipo do Instituto Florescer;
-- `assets/images/projetos/` — imagens de capa de cada projeto social;
-- `assets/images/equipe/` — imagens de voluntários/equipe;
-- `assets/images/galeria/` — imagens da seção de galeria da página inicial.
-
-**Antes de publicar oficialmente o site**, substitua essas imagens por
-fotografias reais da organização, mantendo:
-- os mesmos nomes de arquivo (para não quebrar os caminhos no HTML), **ou**
-- atualizando os atributos `src` correspondentes caso troque os nomes;
-- sempre com autorização de uso de imagem das pessoas retratadas;
-- mantendo os textos de `alt` atualizados e descritivos.
+Foram utilizadas imagens dispobíveis em sites do google. Nenhuma imagem representa o Instituto Fictício que foi criado.
 
 
 ## Autoria
 
 Projeto acadêmico desenvolvido para fins de estudo de HTML5, CSS3 e
-JavaScript, com o apoio da IA Claude (Anthropic) como orientadora técnica no
-processo de criação e documentação.
+JavaScript.
